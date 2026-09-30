@@ -17,4 +17,4 @@ By the end of this course, I expect each of you will be able to:
 4. **Develop a design concept** into a functional, responsive website using semantic HTML, foundational CSS, and some simple JavaScript. *(Visual Studio Code)*
 5. **Iterate and collaborate** to create a cohesive web design project by incorporating user feedback, explaining and documenting design decisions, and using industry tools to collaborate, manage, and publish the project. *(Git and GitHub)*
 
-6. If you get stuck on anything, reach out to me on Slack or email!
+### If you get stuck on anything, reach out to me on Slack or email!
