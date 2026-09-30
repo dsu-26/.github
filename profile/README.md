@@ -1,4 +1,4 @@
-![Web Design (MCOM 351) Fall 2026](../images/web-design-fa26-header.png)
+![Web Design (MCOM 351) Fall 2026](../images/web-design-fa26-header-sm.png)
 ## Web Design (MCOM 351) Fall 2026
 
 
