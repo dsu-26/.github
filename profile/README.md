@@ -2,7 +2,7 @@
 ## Web Design (MCOM 351) Fall 2026
 
 
-##### [Quick link to our demo repository](https://dsu-26.github.io/sept-tm/)
+##### [Quick link to our demo repository](https://dsu-26.github.io/sept-tm/{target="_blank"})
 
 
 ### Our goals this semester
